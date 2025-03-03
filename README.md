@@ -11,13 +11,27 @@ It was a fun challenge to learn everything from scratch and bring this idea to l
 In Greedyland, your mission is simple: grab your tools and start breaking rocks, mining deep into the forest to uncover hidden treasures. Along the way, you'll find valuable metals like Gold, Platinum, Silver, and Iron. Sell them on the local market to upgrade your gear and become even more efficient at digging.
 But the real prize? **NFTs**.
 As you mine, there's a chance you'll discover **unique NFTs** with different rarity levels:
-Unlimited
-Limited (**500/500**)
-Rare (**100/100**)
-Very Rare (**10/10**)
-Ultra Rare (**3/3**)
-Legendary (**1/1**)
-You can claim collect, and trade these NFTs directly inside the game using the built-in marketplace.
+Unlimited  
+Limited (**500/500**)  
+Rare (**100/100**)  
+Very Rare (**10/10**)  
+Ultra Rare (**3/3**)  
+Legendary (**1/1**)  
+
+You can claim collect, and trade these **NFTs** directly inside the game using the built-in marketplace.    
+
+**Login with your wallet**  
+![](https://img.itch.zone/aW1nLzIwMTIzMDMzLmdpZg==/original/74LnjS.gif)   
+
+**Claim NFTs in game**  
+![](https://img.itch.zone/aW1nLzIwMTIzMTE3LmdpZg==/original/b2a5oT.gif)     
+
+**Buy NFTs**  
+![](https://img.itch.zone/aW1nLzIwMTIzMDU0LmdpZg==/original/jXdbGg.gif)  
+
+**Sell NFTs on the market**  
+![](https://img.itch.zone/aW1nLzIwMTIzMDcxLmdpZg==/original/fvKZyH.gif)  
+
 
 ## Key Features
 

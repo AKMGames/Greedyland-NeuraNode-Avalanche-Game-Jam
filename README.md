@@ -4,7 +4,10 @@ I started working on **Greedyland** just one week before the **NeuraNode | Avala
 It was a fun challenge to learn everything from scratch and bring this idea to life!
 
 
-## About the game:
+## About the game:  
+[Greedyland trailer on Youtube](https://www.youtube.com/watch?v=jSqUQ4PYl9c&ab_channel=AKMGames)
+
+
 In Greedyland, your mission is simple: grab your tools and start breaking rocks, mining deep into the forest to uncover hidden treasures. Along the way, you'll find valuable metals like Gold, Platinum, Silver, and Iron. Sell them on the local market to upgrade your gear and become even more efficient at digging.
 But the real prize? **NFTs**.
 As you mine, there's a chance you'll discover **unique NFTs** with different rarity levels:

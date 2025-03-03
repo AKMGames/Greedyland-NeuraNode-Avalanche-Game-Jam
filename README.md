@@ -2,7 +2,11 @@
 
 I started working on **Greedyland** just one week before the **NeuraNode | Avalanche Game Jam** deadline, with no prior experience in Web3 or NFT games. 
 It was a fun challenge to learn everything from scratch and bring this idea to life!  
-[Play the game on Itch.io](https://khalilakm.itch.io/greedyland)
+[Play the game on Itch.io](https://khalilakm.itch.io/greedyland)  
+**Links to smart contracts**  
+0x4Db01c0141030d3d0739617A4388A8F3D9b502b5  
+0x607427Eb2fF508891b147082DaAB3D4f89684317
+
 
 
 ## About the game:  

@@ -28,14 +28,18 @@ You can claim collect, and trade these NFTs directly inside the game using the b
 - While mining, you might uncover hidden **NFTs** with various rarity levels. Each NFT has limited supply and different levels of value.
 
 **Extraction Point Survival:**  
-- Collecting loot is just half the job. To secure your earnings, you must return safely to the **Extraction Point (your car)**. **If you quit or disconnect before extracting, you lose everything you gathered. Risk it all or play it safe—it's up to you!*
+- Collecting loot is just half the job. To secure your earnings, you must return safely to the **Extraction Point (your car)**.
+> [!WARNING]
+> **If you quit or disconnect before extracting, you lose everything you gathered. Risk it all or play it safe—it's up to you!**
   
 **Integrated Marketplace:**
  - No need to leave the game to trade! **Greedyland** features a fully functional **NFT Marketplace** where players can list their **NFTs** for sale, browse other listings, and build their own collection of rare in-game treasures.
 
 ## Hand Tools:
 **Axe, Pickaxe, Sickle:**
-- These are your main tools for smashing through rocks and clearing obstacles. **Upgrading any hand tool increases its Damage, allowing you to break materials faster, but be prepared—each swing will also drain more Stamina as your tools get stronger. So make sure to manage your energy wisely during long mining runs!*
+- These are your main tools for smashing through rocks and clearing obstacles.
+ > [!TIP]
+ **Upgrading any hand tool increases its Damage, allowing you to break materials faster, but be prepared—each swing will also drain more Stamina as your tools get stronger. So make sure to manage your energy wisely during long mining runs!**
   
 **Dynamite:**
 - Why swing when you can just blow things up? Dynamite clears multiple rocks in one blast and costs no stamina, making it a perfect option when you're low on energy. Upgrading dynamite boosts its explosion power, allowing it to destroy stronger rocks and cover larger areas. However, stronger dynamite is more expensive to craft and use—so spend wisely!
@@ -47,6 +51,9 @@ You can claim collect, and trade these NFTs directly inside the game using the b
 
 -Want to know exactly what metal is hiding inside a rock before you waste energy breaking it? The metal detector scans individual rocks and tells you what’s inside. Upgrading the detector improves its accuracy and lets it scan faster, helping you focus on the most valuable finds.  
 
-## Note:
-Due to the short development period, there may be some bugs in the game. If you encounter any issues, please report them to the developer to help improve the experience.
+
+
+
+> [!Note]
+> Due to the short development period, there may be some bugs in the game. If you encounter any issues, please report them to the developer to help improve the experience.
 

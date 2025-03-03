@@ -47,4 +47,6 @@ You can claim collect, and trade these NFTs directly inside the game using the b
 
 -Want to know exactly what metal is hiding inside a rock before you waste energy breaking it? The metal detector scans individual rocks and tells you what’s inside. Upgrading the detector improves its accuracy and lets it scan faster, helping you focus on the most valuable finds.  
 
+## Note:
+Due to the short development period, there may be some bugs in the game. If you encounter any issues, please report them to the developer to help improve the experience.
 

@@ -34,8 +34,11 @@ You can claim collect, and trade these NFTs directly inside the game using the b
   
 **Integrated Marketplace:**
  - No need to leave the game to trade! **Greedyland** features a fully functional **NFT Marketplace** where players can list their **NFTs** for sale, browse other listings, and build their own collection of rare in-game treasures.
+   ![](https://img.itch.zone/aW1hZ2UvMzM2OTk1NS8yMDEyMDE3OC5wbmc=/original/qEK8c0.png)
 
 ## Hand Tools:
+![](https://img.itch.zone/aW1hZ2UvMzM2OTk1NS8yMDEyMDE0OC5qcGc=/original/T14Xno.jpg)  
+
 **Axe, Pickaxe, Sickle:**
 - These are your main tools for smashing through rocks and clearing obstacles.
  > [!TIP]

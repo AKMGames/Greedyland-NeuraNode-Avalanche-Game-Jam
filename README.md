@@ -62,4 +62,5 @@ You can claim collect, and trade these NFTs directly inside the game using the b
 
 > [!Note]
 > Due to the short development period, there may be some bugs in the game. If you encounter any issues, please report them to the developer to help improve the experience.
+> Contact the developer: [X](https://www.x.com/KhalilHammouda1), [Email](hammoudakhalil5585@gmail.com), [Instagram](https://www.instagram.com/khalilhammouda)
 

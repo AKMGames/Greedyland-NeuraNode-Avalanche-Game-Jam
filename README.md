@@ -1,3 +1,10 @@
+> [!WARNING]
+> If you experience any issues with the **UI or text not displaying properly**, please try playing the game on **Firefox**.
+We're aware of this problem and are working on a fix!
+Thank you for your understanding and support 🙏
+> 
+
+
 ### Welcome to Greedyland
 
 I started working on **Greedyland** just one week before the **NeuraNode | Avalanche Game Jam** deadline, with no prior experience in Web3 or NFT games. 

@@ -10,7 +10,7 @@ Thank you for your understanding and support 🙏
 I started working on **Greedyland** just one week before the **NeuraNode | Avalanche Game Jam** deadline, with no prior experience in Web3 or NFT games. 
 It was a fun challenge to learn everything from scratch and bring this idea to life!  
 [Play Greedyland on Itch.io](https://khalilakm.itch.io/greedyland)  
-**Links to smart contracts**  
+**Links to smart contracts using Avalanche Blockchain:**  
 0x4Db01c0141030d3d0739617A4388A8F3D9b502b5  
 0x607427Eb2fF508891b147082DaAB3D4f89684317
 
@@ -20,9 +20,9 @@ It was a fun challenge to learn everything from scratch and bring this idea to l
 [Greedyland trailer on Youtube](https://www.youtube.com/watch?v=jSqUQ4PYl9c&ab_channel=AKMGames)
 
 
-In Greedyland, your mission is simple: grab your tools and start breaking rocks, mining deep into the forest to uncover hidden treasures. Along the way, you'll find valuable metals like Gold, Platinum, Silver, and Iron. Sell them on the local market to upgrade your gear and become even more efficient at digging.
-But the real prize? **NFTs**.
-As you mine, there's a chance you'll discover **unique NFTs** with different rarity levels:
+In Greedyland, your mission is simple: grab your tools and start breaking rocks, mining deep into the forest to uncover hidden treasures. Along the way, you'll find valuable metals like Gold, Platinum, Silver, and Iron. Sell them on the local market to upgrade your gear and become even more efficient at digging.  
+But the real prize? **NFTs**.  
+As you mine, there's a chance you'll discover **unique NFTs** with different rarity levels:  
 Unlimited  
 Limited (**500/500**)  
 Rare (**100/100**)  
@@ -30,7 +30,7 @@ Very Rare (**10/10**)
 Ultra Rare (**3/3**)  
 Legendary (**1/1**)  
 
-You can claim collect, and trade these **NFTs** directly inside the game using the built-in marketplace.    
+You can **claim**, **collect**, and **trade** these **NFTs** directly inside the game using the built-in marketplace, all powered by the **Avalanche blockchain** for fast, secure, and low-cost transactions.   
 
 **Login with your wallet**  
 ![](https://img.itch.zone/aW1nLzIwMTIzMDMzLmdpZg==/original/74LnjS.gif)   
@@ -81,7 +81,7 @@ You can claim collect, and trade these **NFTs** directly inside the game using t
   
 **Metal Detector:**  
 
--Want to know exactly what metal is hiding inside a rock before you waste energy breaking it? The metal detector scans individual rocks and tells you what’s inside. Upgrading the detector improves its accuracy and lets it scan faster, helping you focus on the most valuable finds.  
+- Want to know exactly what metal is hiding inside a rock before you waste energy breaking it? The metal detector scans individual rocks and tells you what’s inside. Upgrading the detector improves its accuracy and lets it scan faster, helping you focus on the most valuable finds.  
 
 
 

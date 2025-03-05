@@ -12,7 +12,7 @@ It was a fun challenge to learn everything from scratch and bring this idea to l
 
 [Play Greedyland on Itch.io](https://khalilakm.itch.io/greedyland)  
 
-**Links to smart contracts using Avalanche Blockchain:**  
+**Links to smart contracts (Avalanche Blockchain):**  
 [0x4Db01c0141030d3d0739617A4388A8F3D9b502b5](https://testnet.snowtrace.io/address/0x4Db01c0141030d3d0739617A4388A8F3D9b502b5)  
 [0x607427Eb2fF508891b147082DaAB3D4f89684317](https://testnet.snowtrace.io/address/0x607427Eb2fF508891b147082DaAB3D4f89684317)
 

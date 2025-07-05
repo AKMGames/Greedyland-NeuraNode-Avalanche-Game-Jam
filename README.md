@@ -1,5 +1,5 @@
 > [!IMPORTANT]
->Won thid place in [Avalanche | NeuraNode Game Jam](https://itch.io/jam/avalanche-neuranode-game-jam)
+>Won third place in [Avalanche | NeuraNode Game Jam](https://itch.io/jam/avalanche-neuranode-game-jam)
 
 
 > [!WARNING]

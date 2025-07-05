@@ -1,6 +1,6 @@
 # Welcome to Greedyland
 > [!IMPORTANT]
->Won third place in [Avalanche | NeuraNode Game Jam](https://itch.io/jam/avalanche-neuranode-game-jam)
+>Greedyland has won third place in [Avalanche | NeuraNode Game Jam](https://itch.io/jam/avalanche-neuranode-game-jam)
 
 
 > [!WARNING]

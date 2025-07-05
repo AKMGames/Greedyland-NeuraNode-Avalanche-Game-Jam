@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+>Won thid place in [Avalanche | NeuraNode Game Jam](https://itch.io/jam/avalanche-neuranode-game-jam)
+
+
 > [!WARNING]
 > If you experience any issues with the **UI or text not displaying properly**, please try playing the game on **Firefox**.
 We're aware of this problem and are working on a fix!

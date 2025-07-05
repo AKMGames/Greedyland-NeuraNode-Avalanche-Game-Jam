@@ -2,6 +2,7 @@
 > [!IMPORTANT]
 >Greedyland has won third place in [Avalanche | NeuraNode Game Jam](https://itch.io/jam/avalanche-neuranode-game-jam)
 
+![](https://img.itch.zone/aW1nLzIwMTE5OTA3LmpwZw==/315x250%23c/hNcUcF.jpg)
 
 > [!WARNING]
 > If you experience any issues with the **UI or text not displaying properly**, please try playing the game on **Firefox**.
